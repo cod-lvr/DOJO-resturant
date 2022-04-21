@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\hass beauty"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Todo"
+  }
+}
